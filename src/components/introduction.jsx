@@ -19,7 +19,7 @@ export default class Introduction extends Component {
                         <div className="desc">
 
                           <h1>Hi! <br />I'm Ashar</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1h4hybpR6Nf-iEMXM0ndA-s9OVTBMQMoU/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1qaBAvMObCQ_zc-RYukUdYOvSqGOwL_dn/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
