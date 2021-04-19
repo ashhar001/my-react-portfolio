@@ -18,7 +18,8 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  <article
+
+                <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft"
                   >
@@ -29,7 +30,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Blockchain Developer at Launchnodes LTD, London{' '}
-                          <span>May 2020-Present</span>
+                          <span>May 2021 - Present</span>
                         </h2>
                       </div>
                     </div>
@@ -45,8 +46,8 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Associate Software Developer at 1SilverBullet,
-                          Bangalore <span>Jan 2021-April 2021</span>
+                          Associate Software Developer at 1SilverBullet, Bangalore{' '}
+                          <span>Jan 2021 - April 2021</span>
                         </h2>
                       </div>
                     </div>
@@ -62,16 +63,9 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Graduation at VESIT, Chembur <span>2017-2020</span>
+                          Bachelor's of Engineering at VESIT, Mumbai{' '}
+                          <span>2017-2020</span>
                         </h2>
-                        {/* <p>
-                          I am pursued my graduation with major in EXTC
-                          (Electronics & Telecommunication), with an aggregate
-                          CGPI of 7.52. I have taken courses like DSA, OOPs,
-                          JAVA, C++, Web Development over the years and have
-                          better understanding of these subjects. I have also
-                          been awarded as Top Performer in those courses.
-                        </p> */}
                       </div>
                     </div>
                   </article>
@@ -85,15 +79,8 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Diploma at M.H.S.S.P <span>2012-2017</span>
+                          Diploma at M.H.S.S.P, Mumbai <span>2012-2017</span>
                         </h2>
-                        {/* <p>
-                          I pursued my Diploma with major in EXTC (Electronics &
-                          TeleCommunication) with 82 merit. During this period
-                          of my academics I have participated in various Project
-                          Presentation, Paper Presentation competition which
-                          helped me develop my Presentation Skills.
-                        </p> */}
                       </div>
                     </div>
                   </article>
@@ -107,17 +94,8 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Primary Education <span>2000-2012</span>
+                          Primary Education, Bhiwandi <span>2000-2012</span>
                         </h2>
-                        {/* <p>
-                          I have completed my higher secondary education with
-                          major subjects as Physics, Chemistry & Maths with 80
-                          merit. During my time at school, I have developed
-                          interest in solving complex problems of the
-                          fundamental physics which helped me to improve my
-                          understanding of any problem and also my mathematical
-                          skills to actually solve the problems.
-                        </p> */}
                       </div>
                     </div>
                   </article>

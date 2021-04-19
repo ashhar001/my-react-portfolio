@@ -22,18 +22,18 @@ export default class About extends Component {
                           Developer.
                         </p>
                         <p>
-                          I also have a good knowledge on Blockchain and its key
-                          concepts Knowledge of Ethereum & Hyperledger
+                          Have a good knowledge on Blockchain and its key
+                          concepts. Knowledge of Ethereum & Hyperledger
                           Blockchain platforms.
                         </p>
                         <p>
-                          Good knowledge of Solidity, Go, React.js, Javascript,
+                          Have good knowledge of Solidity, Go, React.js, Javascript,
                           Node.js, Ganache CLI,Truffle Framework, Infura, Jira,
                           Github, SQl, HTML, CSS and development tools for
                           Ethereum Dapp (GETH, Web3, Truffle Framework etc).
                         </p>
                         <p>
-                          I've Strong engineering professional background in
+                          Strong engineering professional background in
                           Electronics and Telecommunication(EXTC) from VESIT,
                           Mumbai.
                         </p>
@@ -148,6 +148,9 @@ export default class About extends Component {
             </div>
           </div>
         </section>
+        
+        
+        
       </div>
     )
   }

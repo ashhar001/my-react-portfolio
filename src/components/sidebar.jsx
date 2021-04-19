@@ -29,7 +29,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.facebook.com/ashar.ansari.39" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://twitter.com/ashhhar001" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com/asha_r001/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                <li><a href="https://www.instagram.com/ashharoo1/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/asharansari/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/ashhar001" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 
