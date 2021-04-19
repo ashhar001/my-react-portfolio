@@ -59,7 +59,7 @@ export default class Introduction extends Component {
                               target="_blank"
                               rel="noopener noreferrer"
                             >
-                              View CV
+                              View Projects
                               <i className="icon-download4" />
                             </a>
                           </p>
