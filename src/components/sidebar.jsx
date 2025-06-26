@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import AboutPhoto from './about.png';
+import AboutPhoto from './about.jpeg';
 
 export default class Sidebar extends Component {
   render() {
@@ -12,7 +12,7 @@ export default class Sidebar extends Component {
             
               <div className="author-img" style={{backgroundImage: 'url('+ AboutPhoto +')'}} />
               <h1 id="colorlib-logo"><a href="index.html">Ashar Ansari</a></h1>
-              <span className="email"><i className="icon-mail"></i> ashar.ansari1020@gmail.com</span><br/>
+              <span className="email"><i className="icon-mail"></i> ashar.a.ansarii@gmail.com</span><br/>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -29,7 +29,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.facebook.com/ashar.ansari.39" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://twitter.com/ashhhar001" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com/ashharoo1/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                <li><a href="https://www.instagram.com/ashhar.ansarii/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/asharansari/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/ashhar001" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 

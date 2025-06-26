@@ -27,7 +27,7 @@ export default class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-learn"
-                              href="https://docs.google.com/document/d/1eJbrqgJqpej0X64rNGv8nSWvfRrDehQjKB57tJDhTK8/edit?usp=sharing"
+                              href="https://drive.google.com/file/d/1Lr1suZkkTwje8qmS8QmiXUGPQmnVMoyS/view?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -50,12 +50,12 @@ export default class Introduction extends Component {
                         <div className="desc">
                           <h1>
                             I'm a
-                            Blockchain Developer
+                            Blockchain | Smart Contract | Cloud & Infrastructure Engineer
                           </h1>
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://github.com/ashhar001/Deployed-Smart-Contracts"
+                              href="https://github.com/ashhar001?tab=repositories"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -83,7 +83,7 @@ export default class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://github.com/ashhar001/All-Web-Apps-Projects"
+                              href="https://github.com/ashhar001?tab=repositories"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
